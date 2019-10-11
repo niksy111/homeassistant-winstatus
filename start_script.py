@@ -1,9 +1,3 @@
-"""
-Start Script. Replace python exec with your python script. 
-
-https://stackoverflow.com/questions/44112399/automatically-restart-a-python-program-if-its-killed
-
-"""
 import subprocess, os
 
 SCRIPT_DIR = os.path.dirname(os.path.realpath(__file__))
